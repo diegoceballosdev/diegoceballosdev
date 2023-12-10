@@ -12,7 +12,7 @@
 <p align="left">
 🎓 PROGRAMADOR
 
-💻 apasionado de la ciencia, las matemáticas y la tecnología.
+💻 Apasionado de la ciencia, las matemáticas y la tecnología.
 
 🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵
 
