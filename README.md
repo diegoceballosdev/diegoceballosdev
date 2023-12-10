@@ -7,7 +7,7 @@
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
-<!--Intro start-->
+<!---Intro start--->
 
 <p align="left">
 🎓 PROGRAMADOR
@@ -19,7 +19,7 @@
 📝 En 2024 cursare el ultimo año de universidad.
 
 📫 Contacto: **diegoceballos95@yahoo.com**
-<!--Intro end-->
+<!---Intro end--->
   </p>
 <br>
 
