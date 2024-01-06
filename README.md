@@ -16,7 +16,7 @@
 
 🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵
 
-📝 En 2024 cursare el ultimo año de universidad.
+📝 Este 2024 cursare mi ultimo año de universidad.
 
 📫 Contacto: **diegoceballos95@yahoo.com**
 <!---Intro end--->
