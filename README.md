@@ -14,7 +14,7 @@
 
 💻 Apasionado de la ciencia, las matemáticas y la tecnología.
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵
+🎥 PEQUEÑO CREADOR DE CONTENIDO en redes sociales.
 
 📝 Este 2024 cursare mi ultimo año de universidad.
 
