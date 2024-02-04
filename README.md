@@ -1,6 +1,3 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h1 align="center">Hola 👋 soy Diego / diegoceballosdev ✨ </h1> 
 
 <p align="left">
@@ -55,10 +52,5 @@
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
-
 </p>        
 <!--- stats (end) -->
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
