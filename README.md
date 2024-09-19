@@ -25,9 +25,14 @@
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,maven,py,c,js,php,laravel,mysql,postgres,html,css,bootstrap,git,github,eclipse,vscode&perline=13" />
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,php,composer,laravel,java,maven,py,c,mysql,postgres&perline=13" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,eclipse,vscode&perline=13" />
   </a>
 </p>
 <br>
