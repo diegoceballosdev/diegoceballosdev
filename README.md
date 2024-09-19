@@ -16,7 +16,7 @@
 
 🎥 PEQUEÑO CREADOR DE CONTENIDO en redes sociales.
 
-📝 Este 2024 cursare mi ultimo año de universidad.
+<!--📝 Este 2025 cursare mi ultimo año de universidad.-->
 
 📫 Contacto: **diegoceballos95@yahoo.com**
 <!---Intro end--->
@@ -27,7 +27,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,haskell,maven,mysql,sqlite,html,css,git,github,eclipse,vscode&perline=13" />
+    <img src="https://skillicons.dev/icons?i=java,maven,py,c,js,php,laravel,mysql,postgres,html,css,bootstrap,git,github,eclipse,vscode&perline=13" />
   </a>
 </p>
 <br>
