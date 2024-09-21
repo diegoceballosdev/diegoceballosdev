@@ -7,7 +7,10 @@
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
+
 <!---Intro start--->
+
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 <p align="left">
 🎓 PROGRAMADOR
@@ -19,6 +22,7 @@
 <!--📝 Este 2025 cursare mi ultimo año de universidad.-->
 
 📫 Contacto: **diegoceballos95@yahoo.com**
+
 <!---Intro end--->
   </p>
 <br>
@@ -29,8 +33,12 @@
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,php,composer,laravel,java,maven,py,c,mysql,postgres,git,github,eclipse,vscod&perline=13" />
   </a>
-</p>
-<br>
+</p><br>
+
+<!-- Tools and Platforms 
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+-->
+
 <!-------------------------->
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
