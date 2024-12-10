@@ -31,7 +31,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,php,composer,laravel,java,maven,py,c,mysql,postgres,git,github,eclipse,vscod&perline=13" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,npm,php,composer,laravel,java,maven,py,c,mysql,postgres,git,github,vscode&perline=12" />
   </a>
 </p><br>
 
