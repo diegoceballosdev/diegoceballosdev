@@ -13,7 +13,7 @@
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 <p align="left">
-🎓 PROGRAMADOR
+🎓 PROGRAMADOR graduado en la Universidad Nacional de Salta (UNSa)
 
 💻 Apasionado de la ciencia, las matemáticas y la tecnología.
 
@@ -31,7 +31,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,npm,php,composer,laravel,java,maven,py,c,mysql,postgres,git,github,vscode&perline=12" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,ts,react,vite,npm,php,composer,laravel,java,maven,py,mysql,postgres,git,github,vscode&perline=12" />
   </a>
 </p><br>
 
