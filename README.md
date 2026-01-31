@@ -15,13 +15,13 @@
 <p align="left">
 🎓 PROGRAMADOR graduado en la Universidad Nacional de Salta (UNSa)
 
-💻 Apasionado de la ciencia, las matemáticas y la tecnología.
+📝 Apasionado de la ciencia, las matemáticas y la tecnología.
 
 🎥 PEQUEÑO CREADOR DE CONTENIDO en redes sociales.
 
-<!--📝 Este 2025 cursare mi ultimo año de universidad.-->
+📫 Contacto: **diegoceballosdev@gmail.com**
 
-📫 Contacto: **diegoceballos95@yahoo.com**
+💻 Portfolio: <a href="https://diegoceballos.vercel.app/" target="_blank" alt="portfolio" /> www.diegoceballos.vercel.app </a>
 
 <!---Intro end--->
   </p>
