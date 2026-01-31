@@ -21,7 +21,7 @@
 
 📫 Contacto: **diegoceballosdev@gmail.com**
 
-💻 Portfolio: <a href="https://diegoceballos.vercel.app/" target="_blank" alt="portfolio" /> www.diegoceballos.vercel.app </a>
+💻 Portfolio: **https://diegoceballos.vercel.app/**
 
 <!---Intro end--->
   </p>
