@@ -10,8 +10,6 @@
 
 <!---Intro start--->
 
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-
 <p align="left">
 🎓 PROGRAMADOR graduado en la Universidad Nacional de Salta (UNSa)
 
@@ -22,6 +20,7 @@
 📫 Contacto: **diegoceballosdev@gmail.com**
 
 💻 Portfolio: **https://diegoceballos.vercel.app/**
+
 
 <!---Intro end--->
   </p>
