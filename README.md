@@ -33,7 +33,7 @@
 
 ## 🚀 Proyectos Destacados
 
-* 🛒 **[Kong Tienda Online](https://github.com/diegoceballosdev/Ecommerce-Kong-Laravel)**: Plataforma e-commerce completa con dashboard admin, checkout (Niubiz/Mercado Pago) y gestión integral. *(Laravel, Livewire, Tailwind, MySQL)*
+* 🛒 **[Kong Tienda Online](https://github.com/diegoceballosdev/Kong-Ecommerce-Fullstack-UNSa)**: Plataforma e-commerce completa con dashboard admin, checkout (Niubiz/Mercado Pago) y gestión integral. *(Laravel, Livewire, Tailwind, MySQL)*
 * 📱 **[CellTech (SPA)](https://celltech-snowy.vercel.app/)**: E-commerce para celulares con carrito, flujo de compra y dashboard de administración protegido por roles. *(React, TS, Supabase, Zustand)*
 * 📝 **[CodeSalta](https://codesalta.vercel.app/)**: Blog tecnológico con arquitectura Headless CMS, optimizado para SEO y performance. *(Next.js, TS, Strapi, Tailwind)*
 * 💸 **[FlowCash](https://flowcash-weld.vercel.app/es)**: Landing page Fintech moderna, multi-idioma y enfocada en conversión. *(Next.js, TS, Framer Motion, Shadcn UI)*
